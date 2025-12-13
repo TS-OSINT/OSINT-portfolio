@@ -9,5 +9,5 @@ information verification, and structured analytical reporting.
 
 - ## OSINT Case Studies
 
-- [Anonymised Professional Background & Corporate Profile Review]
+- [Anonymised Professional Background & Corporate Profile Review]https://github.com/TS-OSINT/OSINT-portfolio/blob/main/portfolio/osint-case-studies/anonymised-case-study-02.md
 
