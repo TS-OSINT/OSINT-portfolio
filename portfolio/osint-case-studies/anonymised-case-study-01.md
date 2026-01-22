@@ -3,17 +3,30 @@ All personal and identifying details have been removed or generalised.
 No private, confidential, or non-public data was used.
 
 # Anonymised OSINT Case Study – Professional Background & Corporate Profile Review
+## Portfolio Note (Client Engagement – Verified, Restricted Disclosure)
+This case study is based on a real investigation conducted for a client. Findings were verified during the engagement using open sources and, where applicable, authoritative records.
+
+Due to client confidentiality requirements, this portfolio version is heavily anonymised and does not include direct source links, registry extracts, screenshots, or any identifying details that could enable re-identification of the subject or associated entities.
+
+This is an anonymised summary of methodology and conclusions, not the full client deliverable.
 
 Date of Completion: 09/12/2025  
 Type of Report: Open-Source Background & Corporate Profile Assessment  
 Data Sources: Public registries, professional platforms, open media archives, company publications, publicly available records.
 
 ## 1. Subject Overview (Anonymised)
-This assessment examines the publicly accessible professional background, career progression, and corporate affiliations of an anonymised senior executive operating in the engineering, life sciences, and pharmaceutical sectors.
+This assessment examines the publicly accessible professional background, career progression, and corporate affiliations of an anonymised senior executive operating in the engineering, life sciences, and pharmaceutical sectors. Unique career markers, dates, and location specifics have been intentionally generalised to prevent re-identification.
 
 All personal identifiers such as full name, address, date of birth, national identification numbers, and direct contact details have been removed.
 
 ## 2. Public Records Summary (Anonymised)
+## Evidence Types Used (Anonymised)
+Verification during the engagement relied on triangulation across:
+- Public corporate registry records (director/officer confirmations)
+- Corporate websites and leadership pages (including archived versions where available)
+- Company publications and press releases
+- Professional platforms (employment history and public posts), cross-checked against independent sources
+- Open media archives and adverse media keyword screening
 
 ### 2.1 Professional Online Presence
 Public records indicate that the subject maintains:
@@ -39,6 +52,12 @@ The subject previously held senior technical, operational, and managerial positi
 - Industrial engineering and safety departments  
 
 All dates, company names, and location details have been generalised to preserve anonymity.
+## Verification Summary (Redacted)
+- Corporate affiliation claims were cross-checked using multiple independent source categories.
+- Current leadership role: verified during the engagement (supporting artefacts withheld).
+- Historical role claims: assessed for consistency across public records and corporate/publication sources.
+- Adverse media screening: performed using keyword matrices and role/company combinations (results withheld; no significant adverse items observed during the review window).
+
 
 ## 4. Professional Biography (Anonymised)
 The subject’s career demonstrates progressive responsibility across engineering, quality assurance, regulatory compliance, and technical leadership roles.
@@ -109,8 +128,8 @@ The subject maintains a limited but professional online presence. Key observatio
 
 - Corporate website listings confirming leadership roles  
 - Professional networking posts related to sector developments  
-- No significant negative media coverage identified in open-source research at the time of review  
-
+- No significant adverse media was observed in the open sources reviewed during the engagement review window, noting that open-source coverage is incomplete and this is not a guarantee of absence.
+ 
 All source details omitted to preserve confidentiality.
 
 ## 8. Notes on Methodology
@@ -122,6 +141,15 @@ This anonymised case study was developed using:
 - Collation of career progression from multiple public platforms  
 
 No private, confidential, or behind-paywall databases were used.
+
+## Client Constraints (Why Detail Is Withheld)
+The client required strict anonymisation to prevent identification of the subject and associated entities. As a result, source paths, timelines, locations, and unique identifiers are intentionally removed or generalised in this portfolio version.
+
+## Limitations
+- This portfolio version excludes exhibits and direct citations by design (client confidentiality).
+- Public registries differ by jurisdiction and may not reflect real-time updates.
+- Some professional information can be self-reported; triangulation reduces but does not eliminate this risk.
+
 
 
 
