@@ -23,5 +23,5 @@ If you’d like to discuss my work or potential opportunities, connect via Linke
 ## OSINT Case Studies
 - [Anonymised Case Study 01](portfolio/osint-case-studies/anonymised-case-study-01.md)
 - [Anonymised Case Study 02](portfolio/osint-case-studies/anonymised-case-study-02.md)
-- [OSINT Case Study 03 — Geolocation Verification (Public Media)](portfolio/osint-case-studies/osint-case-study-03-geolocation-verification.md)
-- [OSINT Case Study 04 — UK EDD Lite (Companies House + Gazette)](portfolio/osint-case-studies/osint-case-study-04-uk-edd-lite-companies-house.md)
+- [OSINT Case Study 03 - Geolocation Verification (Public Media)](portfolio/osint-case-studies/osint-case-study-03-geolocation-verification.md)
+- [OSINT Case Study 04 - UK EDD Lite (Companies House + Gazette)](portfolio/osint-case-studies/osint-case-study-04-uk-edd-lite-companies-house.md)
