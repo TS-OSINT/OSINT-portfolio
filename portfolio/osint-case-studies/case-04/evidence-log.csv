@@ -1,0 +1,8 @@
+EvidenceID,SourceType,Description,SourceURL,Notes
+E1,CompaniesHouse,"Company overview",https://find-and-update.company-information.service.gov.uk/company/10574295,"Status + incorporation"
+E2,CompaniesHouse,"Filing history",https://find-and-update.company-information.service.gov.uk/company/10574295/filing-history,"Accounts + changes"
+E3,CompaniesHouse,"Officers",https://find-and-update.company-information.service.gov.uk/company/10574295/officers,"Current/resigned"
+E4,CompaniesHouse,"PSC",https://find-and-update.company-information.service.gov.uk/company/10574295/persons-with-significant-control,"Controller view"
+E5,CompaniesHouse,"Service info/disclaimer",https://resources.companieshouse.gov.uk/serviceInformation.shtml,"Limitations"
+E6,Gazette,"First Gazette Notices list PDF",https://www.thegazette.co.uk/London/issue/829900/supplement/2844/data.pdf,"Strike-off signal"
+E7,GOVUK,"Strike-off guidance",https://www.gov.uk/strike-off-your-company-from-companies-register/apply-to-strike-off,"Process overview"
