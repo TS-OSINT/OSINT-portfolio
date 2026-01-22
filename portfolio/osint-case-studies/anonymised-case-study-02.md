@@ -1,10 +1,13 @@
 # Anonymised OSINT Case Study 02 – Online Narrative & Claim Verification
+## Portfolio Note (Simulated Exercise)
+This case study is a simulated scenario created for portfolio purposes to demonstrate claim verification and narrative-tracing methodology. It is not based on a real-world client engagement.
 
 All case studies are fully anonymised and created for portfolio purposes only.
 No private, confidential or non-public information is included.
 
 ## Summary
-This case study demonstrates a practical, entry-level OSINT workflow for verifying a circulating online claim and mapping how the narrative spread across platforms. The goal is to show clear methodology and documentation, not to “expose” a specific person or group.
+## Summary
+This case study demonstrates a practical, entry-level OSINT workflow for assessing a circulating online claim and mapping how a narrative can spread across platforms. The goal is to show clear methodology and documentation standards in a controlled, anonymised exercise.
 
 ## Scenario (Anonymised)
 A public claim began circulating online about a “new policy change” affecting a local community. The claim spread rapidly through reposts and screenshots, with conflicting versions of the alleged statement.
@@ -14,6 +17,13 @@ A public claim began circulating online about a “new policy change” affectin
 2. Identify the earliest available source of the claim.
 3. Map the spread of the narrative across platforms.
 4. Document findings in a transparent, reproducible way.
+
+## Deliverables (In This Exercise)
+- Claim normalisation (variants and search pivots)
+- Source-tracing approach (earliest located mention concept)
+- Screenshot/authenticity checks (what to look for)
+- Authoritative-source corroboration approach
+- Narrative spread mapping approach (sample-based)
 
 ## Scope and Safety
 - Only publicly accessible information was used.
@@ -67,13 +77,16 @@ Finding: Official documentation available publicly did not support the specific 
 Finding: The narrative spread followed a screenshot-first pattern. A few high-engagement reposts accelerated reach, while later posts added interpretation rather than new evidence.
 
 ## Conclusion (Careful wording)
-Based on the open sources reviewed, the claim could not be verified as presented. The available public official information did not match the alleged statement, and the screenshot appeared repeatedly without a traceable original source. The most likely explanation is that the claim was based on a misinterpretation, an outdated reference, or an edited/unsupported screenshot.
+In this exercise, the claim could not be verified as presented using the open-source checks described above.
 
 ## What I Would Improve Next Time
 - Expand the dataset size and standardise timestamps.
 - Add more rigorous link analysis (where available).
 - Create a clearer evidence log with hashes for key screenshots.
 - Build a repeatable template for claim verification and narrative tracking.
+
+## Reproducibility Note
+This simulated write-up does not include a full evidence log or archived links. In a production version, I would attach a timestamp-normalised dataset of posts, archived URLs for key sources, and hashed screenshot exhibits.
 
 ## Appendix – Reproducible Query Examples (Generic)
 - "exact phrase from the claim"
